@@ -1,0 +1,19 @@
+id: A53A190E3
+title: Dhammapada
+type: translation
+pechas:
+- I82B434FF
+- IE632E5E2
+- I9E494084
+source_metadata:
+  languages:
+  - zh
+  - en
+  - pi
+  datatype: PlainText
+  created_at: 2023-02-10 00:38:11.368343
+  last_modified_at: 2023-02-10 00:38:11.368357
+alignment_to_base:
+  I82B434FF/42F7: F4C1
+  IE632E5E2/D492: F4C1
+  I9E494084/5A25: F4C1
